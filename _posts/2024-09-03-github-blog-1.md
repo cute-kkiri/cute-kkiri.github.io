@@ -5,3 +5,6 @@ date:   2024-09-03 00:00:00 +0900
 categories: github blog
 ---
 블로그 시작하기.
+
+- 이미지 테스트
+<img src="../assets/img/choonsik.gif" alt="춘식">
