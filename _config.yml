@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Hey Jung # the main title
 
-tagline: 헤이정의 블로그 # it will display as the subtitle
+tagline: 헤이정의 블로그!!!! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   무엇을 해볼까
@@ -29,7 +29,7 @@ github:
   username: cute-kkiri # change to your GitHub username
 
 #twitter:
-  #username: twitter_username # change to your Twitter username
+#username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.

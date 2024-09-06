@@ -8,3 +8,5 @@ categories: github blog
 
 - 이미지 테스트
 <img src="../assets/img/choonsik.gif" alt="춘식">
+<img src="../assets/img/test.jpg" alt="마블리">
+ㄴㅇㄴㄹㅇㄴㄹㄴㅇㄹㄴㅇㄹ
