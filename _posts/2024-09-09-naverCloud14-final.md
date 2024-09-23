@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "네이버 클라우드 14기 파이널 프로젝트 회의록 정리하기"
+title:  "네이버 클라우드 14기 파이널 프로젝트 회의 2024.09.09"
 date:   2024-09-20 00:00:00 +0900
 categories: [naverCloud14, final]
 tags: [study, bitcamp, naverCloud, naverCloud14]
