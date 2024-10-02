@@ -52,7 +52,7 @@ tags: [study, bitcamp, naverCloud, naverCloud14]
       - 해당 어플은 3년 전 최종 업데이트 후 더 이상 업데이트가 없음
       - 우리가 디벨롭하자.
 
-       <img src="img/icon-check.png" alt="icon checkmark" width="40px"/>
+       <img src="../assets/img/icon/icon-check.png" alt="icon checkmark" width="40px"/>
    
       여행 사진 + 지도 페이지 아이디어 확정
 
@@ -90,13 +90,13 @@ tags: [study, bitcamp, naverCloud, naverCloud14]
 **장혜정**
 >- [x]  **아이디어 도출 및 아이디어의 핵심 기능 UI 프로토타입 만들기**<br><br>
 >- **핵심 기능 UI 프로토타입**<br>
-> ![alt 혜정 프로토타입](img/20240911/혜정.png)
+> ![alt 혜정 프로토타입](../assets/img/20240911/혜정.png)
 
 >🔒
 **이선아**
 >- [x]  **아이디어 도출 및 아이디어의 핵심 기능 UI 프로토타입 만들기**<br><br>
 >- **핵심 기능 UI 프로토타입**<br> 
-> [map.pdf](img/20240911/선아.pdf)
+> [map.pdf](../assets/img/20240911/선아.pdf)
 
 >✂️
 **이가람**
@@ -114,7 +114,7 @@ tags: [study, bitcamp, naverCloud, naverCloud14]
 **이태정**
 >- [x]  **아이디어 도출 및 아이디어의 핵심 기능 UI 프로토타입 만들기**<br><br>
 >- **핵심 기능 UI 프로토타입**<br>
-> ![alt 태정 프로토타입](img/20240911/태정.png)
+> ![alt 태정 프로토타입](../assets/img/20240911/태정.png)
 
 >📖
 **김주연**
