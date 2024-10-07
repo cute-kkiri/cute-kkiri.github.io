@@ -2,7 +2,7 @@
 layout: post
 title:  "2024년 제6회 K-디지털 트레이닝 해커톤 회의 2024.09.11"
 date:   2024-10-07 00:00:00 +0900
-categories: [K-디지털 트레이닝 해커톤, k-digitalhackathon]
+categories: [K-디지털 트레이닝 해커톤, 공모전]
 tags: [study, K-디지털 트레이닝 해커톤, k-digitalhackathon]
 ---
 
