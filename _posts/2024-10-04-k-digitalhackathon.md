@@ -86,7 +86,7 @@ tags: [study, K-디지털 트레이닝 해커톤, k-digitalhackathon]
 - 검색 결과 프리셋? 검색 세팅 프리셋?
 
 **[추가 자료]**
-1. 가람 : <a href="https://board.worksmobile.com/main/article/4070000000149287725?t=15244&boardNo=4070000000148462678">점수 계산 게시글 링크</a>
+1. 가람 : <a href="https://board.worksmobile.com/main/article/4070000000149287725?t=15244&boardNo=4070000000148462678" target="_blank">점수 계산 게시글 링크</a>
 
 2. 주연 : 우선순위 커스터마이징 및 점수검색 이미지
 > ![주연-1](../assets/img/20241004/2-1.jpg)
