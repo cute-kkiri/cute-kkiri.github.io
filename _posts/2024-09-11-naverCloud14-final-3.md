@@ -96,7 +96,7 @@ tags: [study, bitcamp, naverCloud, naverCloud14]
 **이선아**
 >- [x]  **아이디어 도출 및 아이디어의 핵심 기능 UI 프로토타입 만들기**<br><br>
 >- **핵심 기능 UI 프로토타입**<br> 
-> [map.pdf](../assets/img/20240911/선아.pdf)
+<!-- > [map.pdf](../assets/img/20240911/선아.pdf) -->
 
 >✂️
 **이가람**
